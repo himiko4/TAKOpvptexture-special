@@ -1,1 +1,2 @@
-# TAKOpvptexture-special
+#TAKOpvptexture-special
+ここはたこ焼きテクスチャーの移動先です

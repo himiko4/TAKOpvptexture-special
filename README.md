@@ -1,2 +1,5 @@
 #TAKOpvptexture-special
-ここはたこ焼きテクスチャーの移動先です
+
+ここはtakoyaki textureの移動先です
+
+https://github.com/himiko4/takoyaki-texture
